@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyaw Myo Htet</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working as a FullStack Web Developer
-- 🌱 I’m currently learning **Node js**
-- 💬 Ask me about **Laravel, javascript**
+- 🌱 I’m currently learning **Agentic AI**
+- 💬 Ask me about **Laravel, javascript, Node js, React Native, Expo, Next js, Vue**
 - 📫 How to reach me **kyawmhtet23@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyawMhtet&show_icons=true&theme=tokyonight)
